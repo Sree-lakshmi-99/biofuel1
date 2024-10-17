@@ -1,0 +1,16 @@
+Series: ts_data 
+ARIMA(1,1,0) with drift 
+
+Coefficients:
+         ar1    drift
+      0.2883  -0.5970
+s.e.  0.1705   0.2076
+
+sigma^2 = 0.7405:  log likelihood = -38.34
+AIC=82.68   AICc=83.56   BIC=86.98
+
+Training set error measures:
+                      ME      RMSE       MAE        MPE     MAPE      MASE
+Training set 0.005841103 0.8191816 0.6249683 0.05164078 1.574223 0.7422995
+                   ACF1
+Training set -0.0410165
